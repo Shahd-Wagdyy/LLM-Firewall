@@ -370,9 +370,10 @@ To regenerate the committed dashboard screenshots (requires Playwright + a runni
 ## Team
 
 - Karim Elmasry
-- Ahmed Yasser
-- Omar Selim
-- Ammar Osama
+- Shahd Wagdy
+- Youssef Qasim
+- Menna Wael
+- Abdelrahman Abdelmaoty
 
 ## AI Usage Declaration
 
